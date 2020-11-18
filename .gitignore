@@ -158,4 +158,5 @@ dmypy.json
 
 ESC-50-master/audio
 *.npz
+models/*
 # End of https://www.toptal.com/developers/gitignore/api/python,linux
