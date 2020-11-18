@@ -10,4 +10,4 @@
 * tensorflow-gpu = "==2.3.1"
 
 # Steps to follow for testing on your Test Data
-* Download the file 'sound' from this Link and place in the directory 'ESC-50-master'.
+* Download the models in the file 'model' from this [Link](https://drive.google.com/drive/folders/1EIHgBie-A7HYKMPzaZeqf_zBoUHsMnvD?usp=sharing) and place at '/models'.
